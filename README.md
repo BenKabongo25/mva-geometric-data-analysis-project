@@ -1,5 +1,4 @@
-# Geometric Data Analysis project
-## Compressive K-Means
+# Geometric Data Analysis project : Compressive K-Means
 
 The paper **Compressive K-Means** proposes a compressive version of the K-Means algorithm, adapted to very high-dimensional datasets. The approach consists of constructing a **sketch**, a representation independent of the dataset size, and recovering cluster centers from the sketch using the CLOMPR (Compressive Learning Orthogonal Matching Pursuit) algorithm.
 
